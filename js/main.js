@@ -1,8 +1,8 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'aula - 01' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'NBUJHxwthHA', name: 'aula - 03' }
+    { id: 'Ejkb_YpuHWs', name: 'Começa aqui o novo ‪curso de HTML5 e CSS3' },
+    { id: 'jgQjeqGRdgA', name: 'O que vamos aprender no módulo 01? ' },
+    { id: 'VfIXgGJWLvA', name: 'Precisamos fazer um acordo' }
 ];
 
 // Estado atual
